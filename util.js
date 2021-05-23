@@ -6,3 +6,6 @@ function multiply(c,d){
     return a*b;
     
 }
+function divide (){
+
+}
